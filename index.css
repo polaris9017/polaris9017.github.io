@@ -3,7 +3,7 @@ body {
     text-align: center;
 }
 
-a {
+a.link_container {
     color: black;
     text-decoration-line: none;
 }
